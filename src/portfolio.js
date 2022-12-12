@@ -1,19 +1,19 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: "#",
-  title: "JV.",
+  title: "J.",
 };
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: "Jhenbert Villamucho",
+  name: "Jhenbert",
   role: "Full Stack Web Developer",
   description:
     "Building stunning webapps that can help your company grow and reach millions of audience.",
-  resume: "http://resume.jhenbert.com/",
+  resume: "http://resume.sample.com/",
   social: {
-    facebook: "https://facebook.com",
-    github: "https://github.com",
+    facebook: "https://facebook.com/jhenbertvil",
+    github: "https://github.com/jhenbertgit",
   },
 };
 
@@ -49,10 +49,11 @@ const skills = [
   "HTML",
   "CSS",
   "JavaScript",
-  "React",
+  "React JS",
   "Material UI",
   "Git",
   "Node JS",
+  "PHP",
   "Java",
   "Python",
 ];
