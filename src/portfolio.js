@@ -9,8 +9,8 @@ const about = {
   name: "Jhenbert",
   role: "Full Stack Web Developer",
   description:
-    "Building stunning webapps that can help your company grow and reach millions of audience.",
-  resume: "http://resume.sample.com/",
+    "Building a stunning web application that is relevant to current trends can help your company grow and reach millions of audiences.",
+  resume: "https://resume.jhenbert.com/",
   social: {
     facebook: "https://facebook.com/jhenbertvil",
     github: "https://github.com/jhenbertgit",
@@ -21,22 +21,25 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: "Project 1",
-    description: "Mini Project 1 from the bootcamp",
+    name: "beSafe Website",
+    description:
+      "A responsive webite that fits to any mobile devices. This is my mini project 1 during our bootcamp",
     stack: ["HTML", "Javascript", "CSS Vanilla", "Bootstrap"],
     sourceCode: "https://github.com/jhenbertgit/mini-project-1",
     livePreview: "https://jhenbertgit.github.io/mini-project-1",
   },
   {
     name: "Blucare e-Clinic",
-    description: "Mini Project 2 from the bootcamp",
+    description:
+      "An API driven websites, this is our mini project 2 during our bootcamp.",
     stack: ["HTML", "Javascript", "CSS Vanilla", "Bootstrap"],
     sourceCode: "https://github.com/jhenbertgit/mini-project-2",
     livePreview: "https://blucare.netlify.app",
   },
   {
     name: "Sales Management",
-    description: "Mini Project 3 from the bootcamp",
+    description:
+      "Our mini project 3 during the bootcamp that demonstrate CRUD operation and have custom API.",
     stack: ["React", "Material-UI", "NodeJS", "ExpressJS", "MySQL"],
     sourceCode: "https://github.com/jhenbertgit/mini-project-3",
     livePreview: "http://wd41p-sales-mgt.vercel.app",
