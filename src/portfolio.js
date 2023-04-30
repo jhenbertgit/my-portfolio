@@ -9,8 +9,8 @@ const about = {
   name: "Jhenbert",
   role: "Full Stack Web Developer",
   description:
-    "Building a stunning web application that is relevant to current trends can help your company grow and reach millions of audiences.",
-  resume: "https://resume.jhenbert.com/",
+    "Passionate about web development and eager to learn, I'm a beginner web developer looking for opportunities to grow. With a solid foundation in below listed skills, I'm committed to delivering high-quality work that meets your needs. Let's create something great together!",
+  resume: "https://drive.google.com/file/d/1EElSf4PVRqHe0pz9ZTIa81LlQXNwVP6w/view?usp=sharing",
   social: {
     facebook: "https://facebook.com/jhenbertvil",
     github: "https://github.com/jhenbertgit",
