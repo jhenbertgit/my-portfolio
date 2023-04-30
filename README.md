@@ -1,6 +1,6 @@
 # My Sample Portfolio
 
-- The codes building this portfolio are not originally mine. This portfolio is solely for educational purposes only as well as to practice my coding skill.
+- The code building this portfolio are not originally mine. This portfolio is solely for educational purposes only as well as to practice my coding skill.
 - Credit to the rightful owner of these codes [@rajshekhar26](https://rajshekhar26.github.io/).
 
 ## To preview this project in local machine
