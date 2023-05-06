@@ -9,11 +9,10 @@ const about = {
   name: "Jhenbert",
   role: "Full Stack Web Developer",
   description:
-    "Passionate about web development and eager to learn, I'm a beginner web developer looking for opportunities to grow. With a solid foundation in below listed stack, I'm committed to delivering high-quality work that meets your needs. Let's create something great together!",
-  resume:
-    "https://drive.google.com/file/d/1EElSf4PVRqHe0pz9ZTIa81LlQXNwVP6w/view?usp=sharing",
+    "Passionate about web development and eager to learn, I'm a beginner web developer looking for opportunities to grow. With a solid foundation in below listed tech stack, I'm committed to delivering high-quality work that meets your needs. Let's create something great together!",
+  resume: "https://drive.google.com/file/d/1C7bAvWk4l_pLkAnbcjN1obaW78TDkv1t/view?usp=sharing",
   social: {
-    facebook: "https://facebook.com/jhenbertvil",
+    linkedin: "https://linkedin.com/in/jhenbert-villamucho-24b38825b",
     github: "https://github.com/jhenbertgit",
   },
 };
@@ -33,7 +32,7 @@ const projects = [
     name: "Blucare e-Clinic",
     description:
       "An API driven websites, this is our mini project 2 during our bootcamp.",
-    stack: ["HTML", "Javascript", "CSS Vanilla", "Bootstrap", "Firebase"],
+    stack: ["HTML", "Javascript", "CSS Vanilla", "Bootstrap"],
     sourceCode: "https://github.com/jhenbertgit/mini-project-2",
     livePreview: "https://blucare.netlify.app",
   },
@@ -41,7 +40,7 @@ const projects = [
     name: "Sales Management",
     description:
       "Our mini project 3 during the bootcamp that demonstrate CRUD operation and have custom API.",
-    stack: ["React", "Material-UI", "NodeJS", "ExpressJS", "MySQL", "Nginx"],
+    stack: ["React", "Material-UI", "NodeJS", "ExpressJS", "MySQL"],
     sourceCode: "https://github.com/jhenbertgit/mini-project-3",
     livePreview: "http://wd41p-sales-mgt.vercel.app",
   },
@@ -70,7 +69,6 @@ const skills = [
   "Nginx",
   "Linux",
   "Git",
-  "Figma",
 ];
 
 const contact = {

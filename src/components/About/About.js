@@ -1,6 +1,6 @@
 import React from "react";
 import GitHubIcon from "@mui/icons-material/GitHub";
-import FacebookIcon from "@mui/icons-material/Facebook";
+import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import { about } from "../../portfolio";
 import "./About.css";
 
@@ -41,15 +41,15 @@ const About = () => {
               </a>
             )}
 
-            {social.facebook && (
+            {social.linkedin && (
               <a
-                href={social.facebook}
+                href={social.linkedin}
                 target="_blank"
                 rel="noreferrer"
-                aria-label="facebook"
+                aria-label="linkedin"
                 className="link link--icon"
               >
-                <FacebookIcon />
+                <LinkedInIcon />
               </a>
             )}
           </>
