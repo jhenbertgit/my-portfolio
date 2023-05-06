@@ -10,7 +10,8 @@ const about = {
   role: "Full Stack Web Developer",
   description:
     "Passionate about web development and eager to learn, I'm a beginner web developer looking for opportunities to grow. With a solid foundation in below listed tech stack, I'm committed to delivering high-quality work that meets your needs. Let's create something great together!",
-  resume: "https://drive.google.com/file/d/1C7bAvWk4l_pLkAnbcjN1obaW78TDkv1t/view?usp=sharing",
+  resume:
+    "https://drive.google.com/file/d/1C7bAvWk4l_pLkAnbcjN1obaW78TDkv1t/view?usp=sharing",
   social: {
     linkedin: "https://linkedin.com/in/jhenbert-villamucho-24b38825b",
     github: "https://github.com/jhenbertgit",
@@ -56,16 +57,13 @@ const skills = [
   "Material UI",
   "ReactJS",
   "Laravel",
-  "Springboot",
   "NodeJS",
   "ExpressJS",
   "PostreSQL",
   "MySQL",
-  "MonggoDB",
   "PHP",
   "Java",
   "Python",
-  "Lua",
   "Nginx",
   "Linux",
   "Git",
