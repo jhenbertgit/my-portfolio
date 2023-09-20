@@ -9,9 +9,9 @@ const about = {
   name: "Jhenbert",
   role: "Full Stack Web Developer",
   description:
-    "Passionate about web development and eager to learn, I'm a beginner web developer looking for opportunities to grow. With a solid foundation in below listed tech stack, I'm committed to delivering high-quality work that meets your needs. Let's create something great together!",
+    "Passionate about web development, eager to learn, and looking for opportunities to grow. With a solid foundation in below listed tech stacks, I'm committed to delivering high-quality work that meets your needs. Let's create something great together!",
   resume:
-    "https://drive.google.com/file/d/1j0Rdx_w_YPlhrdo1Rvqy4ky6Ee0IRnFs/view?usp=sharing",
+    "https://drive.google.com/file/d/17IYkYuIBhzj4e8kNHRMFMnWkZLRSBUDm/view?usp=sharing",
   social: {
     linkedin: "https://linkedin.com/in/jhenbert",
     github: "https://github.com/jhenbertgit",
@@ -53,19 +53,15 @@ const skills = [
   "HTML",
   "CSS",
   "JavaScript",
-  "Bootstrap",
-  "Material UI",
+  "TypeScript",
   "ReactJS",
-  "Laravel",
   "NodeJS",
   "ExpressJS",
   "PostreSQL",
   "MySQL",
-  "PHP",
-  "Java",
-  "Python",
+  "Bootstrap",
   "Nginx",
-  "Linux",
+  "Linux (Ubuntu)",
   "Git",
 ];
 
