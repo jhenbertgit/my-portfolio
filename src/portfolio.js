@@ -22,12 +22,12 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: "beSafe Website",
+    name: "CAL Token Faucet",
     description:
-      "A responsive webite that fits to any mobile devices. This is my mini project 1 during our bootcamp",
-    stack: ["HTML", "Javascript", "CSS Vanilla", "Bootstrap"],
-    sourceCode: "https://github.com/jhenbertgit/mini-project-1",
-    livePreview: "https://jhenbertgit.github.io/mini-project-1",
+      "A web3-based platform enabling users to claim CAL Tokens, a cryptocurrency native to the Binance Smart Chain (BSC) Testnet Network.",
+    stack: ["Typescript", "EtherJS", "Shadcn-ui", "Tailwind CSS"],
+    sourceCode: "https://github.com/jhenbertgit/cal-token-faucet.git",
+    livePreview: "https://cal-token-faucet.vercel.app",
   },
   {
     name: "Blucare e-Clinic",
@@ -50,16 +50,15 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  "HTML",
-  "CSS",
-  "JavaScript",
   "TypeScript",
+  "JavaScript",
   "ReactJS",
   "NodeJS",
   "ExpressJS",
+  "EtherJS",
   "PostreSQL",
   "MySQL",
-  "Bootstrap",
+  "Tailwind CSS",
   "Nginx",
   "Linux (Ubuntu)",
   "Git",
