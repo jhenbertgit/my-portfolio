@@ -25,7 +25,7 @@ const projects = [
     name: "CAL Token Faucet",
     description:
       "A web3-based platform enabling users to claim CAL Tokens, a cryptocurrency native to the Binance Smart Chain (BSC) Testnet Network.",
-    stack: ["Typescript", "EtherJS", "Shadcn-ui", "Tailwind CSS"],
+    stack: ["React", "Typescript", "EtherJS", "Shadcn-ui", "Tailwind CSS"],
     sourceCode: "https://github.com/jhenbertgit/cal-token-faucet.git",
     livePreview: "https://cal-token-faucet.vercel.app",
   },
