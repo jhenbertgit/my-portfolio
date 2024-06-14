@@ -3,8 +3,13 @@ import "./Footer.css";
 
 const Footer = () => (
   <footer className="footer">
-    <a href="http://jhenbert.com" className="link footer__link">
-      Created By Jhenbert Villamucho
+    <a
+      href="https://gravatar.com/jhenvil"
+      className="link footer__link"
+      rel="noreferrer"
+      target="_blank"
+    >
+      About the Developer
     </a>
   </footer>
 );

@@ -9,7 +9,7 @@ const about = {
   name: "Jhenbert",
   role: "Full Stack Web Developer",
   description:
-    "Passionate about web development, eager to learn, and looking for opportunities to grow. With a solid foundation in below listed tech stacks, I'm committed to delivering high-quality work that meets your needs. Let's create something great together!",
+    "Excited about delving into web development, I bring a robust skill set to the table. Committed to crafting exceptional solutions tailored to your requirements, I'm eager to collaborate and expand my knowledge along the way. Let's embark on this journey together and build something remarkable!",
   resume:
     "https://drive.google.com/file/d/17IYkYuIBhzj4e8kNHRMFMnWkZLRSBUDm/view?usp=sharing",
   social: {
@@ -52,14 +52,9 @@ const skills = [
   // if there are no skills, Skills section won't show up
   "TypeScript",
   "JavaScript",
-  "Sveletekit",
-  "ReactJS",
-  "NodeJS",
-  "ExpressJS",
-  "EtherJS",
+  "Svelte (Sveltekit)",
   "Prisma ORM",
   "Tailwind CSS",
-  "Nginx",
   "Linux (Ubuntu)",
   "Git",
 ];
